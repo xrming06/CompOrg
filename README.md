@@ -1,0 +1,2 @@
+# CompOrg
+backup raspberry pi
